@@ -145,7 +145,7 @@
             android:layout_margin="3dp"
             android:contentDescription="@string/image"
             android:scaleType="fitXY"
-            android:src="@drawable/rtz"
+            android:src="@drawable/gallery"
             />
         <ImageButton
             android:id="@+id/undo_imgbtn"
@@ -154,7 +154,7 @@
             android:layout_margin="3dp"
             android:contentDescription="@string/image"
             android:scaleType="fitXY"
-            android:src="@drawable/bat"
+            android:src="@drawable/undo"
             />
         <ImageButton
             android:id="@+id/select_size_imgbtn"
@@ -163,7 +163,7 @@
             android:layout_margin="3dp"
             android:contentDescription="@string/image"
             android:scaleType="fitXY"
-            android:src="@drawable/chris"
+            android:src="@drawable/brushsize"
             />
         <ImageButton
             android:id="@+id/save_imgbtn"
@@ -172,7 +172,7 @@
             android:layout_margin="3dp"
             android:contentDescription="@string/image"
             android:scaleType="fitXY"
-            android:src="@drawable/rick"
+            android:src="@drawable/save"
             />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
